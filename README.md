@@ -4,15 +4,15 @@ O projeto "Google Search" consiste em criar uma interface de usuário (front-end
 
 ## Arquivos: ##
 
-    advanced.css: Este arquivo contém o código CSS para estilizar a página "Pesquisa Avançada" do seu projeto de busca do Google.
+    advanced.css: Este arquivo contém o código CSS para estilizar a página "Pesquisa Avançada".
 
-    advanced.html: Este arquivo contém o código HTML para a página "Pesquisa Avançada" do seu projeto de busca do Google.
+    advanced.html: Este arquivo contém o código HTML para a página "Pesquisa Avançada".
 
-    images.html: Este arquivo contém o código HTML para a página "Pesquisa de Imagens" do seu projeto de busca do Google.
+    images.html: Este arquivo contém o código HTML para a página "Pesquisa de Imagens".
 
-    index.css: Este arquivo contém o código CSS para estilizar a página principal ("Pesquisa do Google") do seu projeto de busca do Google.
+    index.css: Este arquivo contém o código CSS para estilizar a página principal ("Pesquisa do Google").
 
-    index.html: Este arquivo contém o código HTML para a página principal ("Pesquisa do Google") do seu projeto de busca do Google.
+    index.html: Este arquivo contém o código HTML para a página principal ("Pesquisa do Google").
 
 ## Funcionalidades: ##
 
